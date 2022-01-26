@@ -125,7 +125,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>Main</mainClass> <!-- Important variable based on project -->
+                <mainClass>App</mainClass> <!-- Important variable based on project -->
               </manifest>
             </archive>
             <descriptorRefs>
