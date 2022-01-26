@@ -1,5 +1,3 @@
-package com.revature.JavalinSample;
-
 public class App 
 {
     public static void main( String[] args )

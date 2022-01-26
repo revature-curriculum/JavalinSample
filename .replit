@@ -1,0 +1,10 @@
+language = "java10"
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . App.java"
+
+#javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . src/main/java/com/revature/JavalinSample/App.java
+#&&
+#java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* src/main/java/com/revature/JavalinSample/App
+
+#mvn clean compile assembly:single 
+#&&
+#java -jar target/JavalinSample.jar
